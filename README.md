@@ -26,7 +26,7 @@ Grabé un video para mis redes sociales donde explico el montaje y funcionamient
    - Cátodo (patita corta) a GND.
 
 Puedes ver el esquema de conexión en la siguiente imagen:  
-![Esquema de conexión](ruta/a/esquema.jpg) <!-- Usa la imagen que me compartiste, súbela al repositorio y pon la ruta aquí -->
+![Esquema del circuito](https://raw.githubusercontent.com/tthearmando/Arduino-LED-Dimmer/main/Esquematico-led-dimmer.jpg)
 
 ## Código
 El código lee el valor del potenciómetro (0-1023) y lo mapea a un rango de 0-255 para controlar el brillo del LED mediante PWM. Aquí está el código:
