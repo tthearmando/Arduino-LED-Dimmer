@@ -27,7 +27,8 @@ Grabé un video para mis redes sociales donde explico el montaje y funcionamient
 
 Puedes ver el esquema de conexión en la siguiente imagen:  
 
-<img src="https://raw.githubusercontent.com/tthearmando/Arduino-LED-Dimmer/main/Esquematico-led-dimmer.jpg" alt="Esquema del circuito" width="600"/>
+
+<img src="https://raw.githubusercontent.com/tthearmando/Arduino-LED-Dimmer/main/Esquematico-led-dimmer.jpg" alt="Esquema del circuito" width="730"/>
 
 ## Código
 El código lee el valor del potenciómetro (0-1023) y lo mapea a un rango de 0-255 para controlar el brillo del LED mediante PWM. Aquí está el código:
